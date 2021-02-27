@@ -1,6 +1,6 @@
-# 🧐What is Foodie_Diary 
+# 🧐What is Foodie Diary 
 * This is an app for foodies  for  saving their food memories in the app
-* This app also contains FunFact Quiz 
+* This app  contains FunFact Quiz 
 * You can  save photos
 
 
@@ -19,3 +19,4 @@
 * Online cloud storage 
 * Improvied UI
 * chat Feature
+
