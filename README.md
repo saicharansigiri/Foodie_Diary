@@ -1,5 +1,5 @@
 # 🧐What is Foodie Diary 
-* Foodie app is for  especially  taking stunning pictures of food & also storing Notes ... If you are a true foodie this app will help you take and share great pictures of food. also You can  save Notes, and also try out Quiz (FunFact Quiz) .
+* Foodie app is for  especially For taking stunning pictures of food & also storing Notes ... If you are a true foodie this app will help you take and share great pictures of food. also You can  save Notes, and also try out Quiz (FunFact Quiz) .
 
 
 
